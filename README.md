@@ -4,9 +4,9 @@ The purpose of this challenge is to create a node application that allows users 
 ## Table of Contents
 * [Website](#Website)
 * [Criteria](#Criteria)
-* [Tools used](#Tools used)
+* [Tools used](#Tools-used)
 * [Contributions](#Contributions)
-* [Final Result](#Final Result)
+* [Final Result](#Final-Result)
 
 ### Website
 
