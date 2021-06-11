@@ -2,13 +2,10 @@
 The purpose of this challenge is to create a node application that allows users to input information for a new project they're making and have the application create a professional, high quality README file to be included with the new project.
 
 ## Table of Contents
-* [Website](#Website)
 * [Criteria](#Criteria)
 * [Tools used](#Tools-used)
 * [Contributions](#Contributions)
 * [Final Result](#Final-Result)
-
-### Website
 
 ### Criteria
 * Command-line application
