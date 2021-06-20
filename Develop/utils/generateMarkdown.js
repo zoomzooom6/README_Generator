@@ -33,8 +33,9 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   let licenseURL = renderLicenseLink(license);
   let badge = renderLicenseBadge(license);
+  let badgeURL = 'license-' + license + '-blue'
   if (license) {
-    return `${badge}
+    return `![${badgeURL}(${badge})\n
     This project was made using ${license}, you can find more information about this license <a href="${licenseURL}" target="_blank">here</a>`
   } else {
     return '';
