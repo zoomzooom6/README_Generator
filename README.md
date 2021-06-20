@@ -39,10 +39,7 @@ Designed by Tony Huang
 
 ## Final Result
 ### Command-line application prompts
-<img src='' alt='Command line prompt interface questions'/>
+<img src='./assets/images/CommandLineInterface.jpg' alt='Command line prompt interface questions'/>
 
 ### Link to video of README creation
-<a href='#' target='_blank'>Application live test</a>
-
-### Link to README from video
-<a href='#' target='_blank'>Generated README from above</a>
+<a href='https://youtu.be/oOE5FoG8vuM' target='_blank'>Application live test</a>
