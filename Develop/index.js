@@ -157,6 +157,10 @@ const promptUser = () => {
         return generateMarkdown(inputInfo[0]);
     }).then(readmeFile => {
         return writeToFile(inputInfo[0].title, readmeFile);
+    }).then(finishedProj => {
+        console.log("File created! Check out the dist folder for your README!");
+    }).catch(err => {
+        console.log(err);
     })
 };
 

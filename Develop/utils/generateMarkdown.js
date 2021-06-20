@@ -35,7 +35,7 @@ function renderLicenseSection(license) {
   let badge = renderLicenseBadge(license);
   let badgeURL = 'license-' + license + '-blue'
   if (license) {
-    return `![${badgeURL}](${badge})\n
+    return `![${badgeURL}](${badge})
     This project was made using ${license}, you can find more information about this license <a href="${licenseURL}" target="_blank">here</a>`
   } else {
     return '';
@@ -55,6 +55,8 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
+  * [Features](#features)
+  * [Tests](#tests)
   * [Contribute](#how-to-contribute)
 
   ## Installation
@@ -68,6 +70,12 @@ function generateMarkdown(data) {
 
   ## License
   ${license}
+
+  ## Features
+  ${data.features}
+
+  ## Tests
+  ${data.tests}
 
   ## How to contribute
   ${data.contribute}
