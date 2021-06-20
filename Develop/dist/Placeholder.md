@@ -20,8 +20,8 @@
   sijf oseifjsoeif jsefoij
 
   ## License
-  https://img.shields.io/badge/licence-Mozilla-blue
-    This project was made using Mozilla, you can find more information about this license <a href="https://choosealicense.com/licenses/mpl-2.0/" target="_blank">here</a>
+  ![license]https://img.shields.io/badge/licence-Mozilla-blue
+  This project was made using Mozilla, you can find more information about this license <a href="https://choosealicense.com/licenses/mpl-2.0/" target="_blank">here</a>
 
   ## How to contribute
   osijfo asifjaow dfjawpodi jaofij a
