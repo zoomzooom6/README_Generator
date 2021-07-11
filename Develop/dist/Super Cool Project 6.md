@@ -37,4 +37,4 @@
 
   ## Questions
   Contact me at <a href='mailto:email@email.com'>email@email.com</a>
-  View my other projects on <a href='www.github.com/zoomzooom6' target='_blank'>Github</a>
+  View my other projects on [Github](www.github.com/zoomzooom6)
