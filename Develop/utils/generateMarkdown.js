@@ -58,6 +58,7 @@ function generateMarkdown(data) {
   * [Features](#features)
   * [Tests](#tests)
   * [Contribute](#how-to-contribute)
+  * [Questions and Contact](#questions)
 
   ## Installation
   ${data.installation}
@@ -79,6 +80,10 @@ function generateMarkdown(data) {
 
   ## How to contribute
   ${data.contribute}
+
+  ## Questions
+  Contact me at <a href='mailto:${data.email}'>${data.email}</a>
+  View my other projects on <a href='www.github.com/${data.github}' target='_blank'>Github</a>
 `;
 }
 

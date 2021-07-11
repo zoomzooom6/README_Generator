@@ -149,6 +149,16 @@ const promptUser = () => {
             type: 'input',
             name: 'contributors',
             message: 'Enter the names of anyone else that contributed to your project'
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'Provide an email for vistors to contact you at: '
+        },
+        {
+            type: 'input',
+            name: 'github',
+            message: 'Enter your Github username'
         }
 
     ]).then(infoInput => {
