@@ -83,7 +83,7 @@ function generateMarkdown(data) {
 
   ## Questions
   Contact me at <a href='mailto:${data.email}'>${data.email}</a>
-  View my other projects on [Github](www.github.com/${data.github})
+  View my other projects on [Github](https://www.github.com/${data.github})
 `;
 }
 
